@@ -1,0 +1,144 @@
+﻿
+到百度首页
+php fopen
+百度一下
+百度首页设置登录
+网页新闻贴吧知道音乐图片视频地图文库更多?
+展开相关术语
+
+二进制
+逢二进一
+
+copy
+最常用的拷贝命令
+
+绝对路径
+从盘符开始的路径
+
+正则表达式
+编程技术森林的百灵鸟
+展开相关函数
+
+split函数
+编程语言中使用的函数
+
+strstr
+C语言中的库函数
+
+json_decode
+对字符串进行解码
+
+file_get_contents
+可安全用于二进制对象
+展开计算机术语
+
+md5
+跑字典的方法
+
+gd库
+php处理图形的扩展库
+
+htaccess
+分布式配置文件
+
+数组
+按一定顺序排列的集合
+给百度提建议
+?想在此推广您的产品吗?
+咨询热线：400-800-8888
+e.baidu.com
+收起工具所有网页时间不限所有网页和文件站点内检索
+搜索工具百度为您找到相关结果约1,320,000个
+PHP fopen() 函数
+PHP fopen() 函数PHP Filesystem 函数 定义和用法 fopen() 函数打开文件或者 URL。 如果打开失败,本函数返回 FALSE。 语法 fopen(filename,mode,include_path,...
+www.w3school.com.cn/ph...  - 百度快照 - 599条评价
+PHP: fopen - Manual
+查看此网页的中文翻译，请点击 翻译此页
+<?phpfunction download($file_source, $file_target) { $rh = fopen($file_source, 'rb'); $wh = fopen($file_target, 'wb'); if ($rh===false ...
+php.net/manual/en/func...  - 百度快照 - 87%好评
+PHP 文件创建与打开 fopen 函数_PHP基础教程
+2016年9月21日 - PHP fopen() 函数用于打开一个文件或 URL 地址 ...... PHP 中没有单独的文件创建函数,创建和打开文件都是用 fopen() 函数。当使用 fopen() 函数打开一...
+www.5idev.com/p-php......  - 百度快照 - 评价
+为您推荐：php fwrite 换行php fread函数php创建文件夹php fopen 失败
+php fopen()和file_get_contents() 区别介绍 - 务观 - 博客园
+2016年4月9日 - 本文章向码农们介绍PHP使用fopen与file_get_contents读取文件实例分享及这两个函数的区别,需要的码农可以参考一下。 php中读取文件可以使用fopen和fil...
+www.cnblogs.com/echoha...  - 百度快照 - 876条评价
+PHP fopen() 函数 | 菜鸟教程
+PHP fopen() 函数完整的 PHP Filesystem 参考手册 定义和用法fopen() 函数打开一个文件或 URL。如果fopen() 失败,它将返回 FALSE 并附带错误信息。您可以通过在...
+www.runoob.com/php/fun...  - 百度快照 - 88条评价
+php采用“fopen”函数打开文件_百度经验
+2014年9月22日 - //首先采用“fopen”函数打开文件,得到返回值的就是资源类型。 $file_handle = fopen("/data/webroot/resource/php/f.txt","r"); if ($file_handle){ ...
+jingyan.baidu.com/arti...  - 百度快照 - 1452条评价
+PHP中的fopen()函数的返回值是什么?_百度知道
+3个回答 - 提问时间: 2008年12月14日
+[专业]答案:fopen()函数用于打开文件或者URL。如果正确打开那么就返回true,否则返回false!不同的操作系统家族具有不同的行结束习惯。当写入一个文本文件并想插入一个新...
+zhidao.baidu.com/link?...  - 评价
+php中如何获取fopen创建的文件的文件名字	3个回答	2014-02-20
+PHP中fopen文件的路径?	3个回答	2009-02-19
+关于php中的fopen()函数的"b"模式	1个回答	2015-10-14
+更多知道相关问题>>
+PHP fopen_百度百科
+fopen() 函数打开文件或者 URL。 如果打开失败，本函数返回 FALSE。 打开成功，本函数返回TRUE。语法fopen(filename,mode,include_path,context) 参数 描述 file...
+语法 mode 参数的可能的值 说明 提示和注释 PHP的fopen漏洞
+baike.baidu.com/  - 
+php fopen的中文翻译_百度翻译
+php fopen 
+PHP FOPEN
+全部释义和例句试试人工翻译
+fanyi.baidu.com
+PHP fopen函数读写txt文件实现程序_百度文库
+2014年11月24日 - PHP fopen 函数读写 txt 文件实现程序 下面我们利用几个实例来总结了利用 php fopen 函数来实现文件的读写操作, 有需 要学习的朋友可参考参考。 简单...
+wenku.baidu.com/link?u...  - 百度快照 - 评价
+广告
+黑马程序员唯一网站!0元学30天完整IT入门课!
+	
+0元入学，低于协议就业薪资学费全免!0基础，学IT，月薪过万就来黑马程序员。
+www.itheima.com 2016-12- 160条评价 
+php培训-混进兄弟连，活该你成功!
+兄弟连php培训，玩命学习，挑战自我，万余名程序员的共同选择!兄弟连php培训，你的圈子对了，你的人生就对了!400-700-1307
+www.lampbrother.net 2016-12- 429条评价 
+新手程序员，怎样1天开发IM，实时音视频，聊天室?
+网易云信即时通讯云，让开发者快速开发APP社交功能，接入SDK及API，1天上线，即时通讯，实时音视频，直播，聊天室，短信，功能全面，敏捷开发
+www.netease.im 2016-12- 评价 
+相关搜索
+phpfilegetcontents		fwrite php		php fgets
+php fputs		php fwrite		php fopen有什么用
+php文件读写操作		php fopen函数		php mkdir函数
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+下一页>
+帮助举报给百度提建议
+相关函数
+
+fwrite
+
+file_get_contents
+
+fclose
+
+fread
+
+chmod
+
+rewind
+
+strstr
+
+substr
+相关术语
+
+句柄
+
+mysql
+
+feof
+
+正则表达式
