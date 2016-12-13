@@ -6,6 +6,9 @@
  * Date: 2016/12/1
  * Time: 10:44
  */
+//implements-extends区别：
+//implements->实现接口
+//extends->继承类
 class HtmlDocument implements Documentable{
     protected $url;
 
